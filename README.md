@@ -1,1 +1,1 @@
-# school-management-system
+# kchs.github.io
